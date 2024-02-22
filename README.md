@@ -5,13 +5,17 @@
  <p>
     Las ✨llaves✨ de encriptación que utilizaremos son las siguientes:
     <br>
-    La letra "e" es convertida para "enter"
-    La letra "i" es convertida para "imes"
-    La letra "a" es convertida para "ai"
-    La letra "o" es convertida para "ober"
-    La letra "u" es convertida para "ufat"
-    Ejemplo:
-    gato --> gaitober
-    Gaitober --> gato
+    <table>
+        <ul>
+            <li>La letra "e" es convertida para "enter"</li>
+            <li>La letra "i" es convertida para "imes"</li>
+            <li>La letra "a" es convertida para "ai"</li>
+            <li>La letra "o" es convertida para "ober"</li>
+            <li>La letra "u" es convertida para "ufat"</li>
+            <li>Ejemplo:</li>
+           <li> gato --> gaitober</li>
+            <li>Gaitober --> gato</li>
+        </ul>
+    </table>
  </p>
  </div>
